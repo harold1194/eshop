@@ -35,7 +35,7 @@ class Chart extends StatelessWidget {
                       ),
                 ),
                 SizedBox(height: defaultPadding),
-                Text("of 128GB"),
+                Text("of 228GB"),
               ],
             ),
           ),
